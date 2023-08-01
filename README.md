@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Routech**
 
-- 🌱 I’m currently studying to become a Data Scientiste, studying **Data Mining, Classification and IA.**
+- 🌱 I’m currently studying to become a Data Scientist, studying **Data Mining, Classification and IA.**
 
 - 👨‍💻 All of my projects are available at [vitorbclemes.github.io/my-portfolio](vitorbclemes.github.io/my-portfolio)
 
