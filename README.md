@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitor Bernstorff Clemes</h1>
 <h3 align="center">A passionate Computer Science student and WEB Developer</h3>
 
-- 🔭 I’m currently working at **Routech**
+- 🔭 I’m currently working at **Routech** as a Fullstack Developer
 
 - 🌱 I’m currently studying to become a Data Scientist, studying **Data Mining, Classification and IA.**
 
