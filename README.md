@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Routech** as a Fullstack Developer
 
-- 🌱 I’m currently studying to become a Data Scientist, studying **Data Mining, Classification and IA.**
+- 🌱 I have a bachelor's degree in Computer Science, currently interested in AI and Team Manegement.
 
 - 👨‍💻 All of my projects are available at [vitorbclemes.github.io/my-portfolio](vitorbclemes.github.io/my-portfolio)
 
