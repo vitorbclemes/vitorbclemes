@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vitor Bernstorff Clemes</h1>
-<h3 align="center">A passionate Computer Science student and WEB Developer</h3>
+<h3 align="center">A passionate Computer Science</h3>
 
 - 🔭 I’m currently working at **Routech** as a Fullstack Developer
 
 - 🌱 I have a bachelor's degree in Computer Science, currently interested in AI and Team Manegement.
-
-- 👨‍💻 All of my projects are available at [vitorbclemes.github.io/my-portfolio](vitorbclemes.github.io/my-portfolio)
 
 - 📝 I wrote a theshis about using Quantum Annealing for CVRPTW Optimization available at [https://sistemabu.udesc.br/pergamumweb/vinculos/0000a8/0000a855.pdf](https://sistemabu.udesc.br/pergamumweb/vinculos/0000a8/0000a855.pdf)
 
